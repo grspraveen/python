@@ -30,5 +30,5 @@ olympic_hosts = {'HostCity': ['London','Beijing','Athens','Sydney','Atlanta'],
 print(type(olympic_hosts))
 df_olympic_data_dict = pd.DataFrame(olympic_hosts)
 print(df_olympic_data_dict)
-print(df_olympic_data_dict.Hostcity)
+
 

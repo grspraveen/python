@@ -33,4 +33,5 @@ print(name5)
 
 name6=name4.replace("if","may")
 print(name6)
+#find is used to find the sub string 
 
